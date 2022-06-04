@@ -14,6 +14,7 @@ namespace PropertyApp
             public Form1()
             {
                 InitializeComponent();
+                ;.
             }
 
             private void Form1.cs(object sender, EventArgs e)
